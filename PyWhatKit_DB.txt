@@ -1,0 +1,735 @@
+Date: 24/8/2025
+Time: 0:42
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 00:41:58
+--------------------
+Date: 24/8/2025
+Time: 0:44
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 00:44:17
+--------------------
+Date: 24/8/2025
+Time: 0:45
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 00:45:08
+--------------------
+Date: 24/8/2025
+Time: 0:48
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 00:48:37
+--------------------
+Date: 24/8/2025
+Time: 0:50
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 00:49:54
+--------------------
+Date: 24/8/2025
+Time: 1:1
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 01:00:48
+--------------------
+Date: 24/8/2025
+Time: 1:2
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 01:02:44
+--------------------
+Date: 24/8/2025
+Time: 1:3
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 01:03:45
+--------------------
+Date: 24/8/2025
+Time: 1:16
+Phone Number: +919130794461
+Message: Accident detected at 2025-08-24 01:16:08
+--------------------
+Date: 24/8/2025
+Time: 15:49
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 15:48:58
+--------------------
+Date: 24/8/2025
+Time: 15:49
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 15:49:15
+--------------------
+Date: 24/8/2025
+Time: 15:54
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 15:54:43
+--------------------
+Date: 24/8/2025
+Time: 16:4
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:04:30
+--------------------
+Date: 24/8/2025
+Time: 16:5
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:04:49
+--------------------
+Date: 24/8/2025
+Time: 16:17
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:16:46
+--------------------
+Date: 24/8/2025
+Time: 16:17
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:17:04
+--------------------
+Date: 24/8/2025
+Time: 16:17
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:17:22
+--------------------
+Date: 24/8/2025
+Time: 16:17
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:17:39
+--------------------
+Date: 24/8/2025
+Time: 16:18
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:17:56
+--------------------
+Date: 24/8/2025
+Time: 16:18
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:18:13
+--------------------
+Date: 24/8/2025
+Time: 16:18
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:18:30
+--------------------
+Date: 24/8/2025
+Time: 16:45
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:45:45
+--------------------
+Date: 24/8/2025
+Time: 16:46
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:46:02
+--------------------
+Date: 24/8/2025
+Time: 16:46
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:46:20
+--------------------
+Date: 24/8/2025
+Time: 16:46
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:46:37
+--------------------
+Date: 24/8/2025
+Time: 16:47
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 16:46:54
+--------------------
+Date: 24/8/2025
+Time: 17:12
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 17:12:26
+--------------------
+Date: 24/8/2025
+Time: 17:12
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 17:12:43
+--------------------
+Date: 24/8/2025
+Time: 17:13
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-24 17:12:58
+--------------------
+Date: 25/8/2025
+Time: 22:39
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-25 22:39:00
+--------------------
+Date: 25/8/2025
+Time: 22:39
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-25 22:39:17
+--------------------
+Date: 25/8/2025
+Time: 22:39
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-25 22:39:31
+--------------------
+Date: 25/8/2025
+Time: 22:52
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-25 22:52:32
+--------------------
+Date: 25/8/2025
+Time: 22:55
+Phone Number: +919981859604
+Message: Accident detected at 2025-08-25 22:54:51
+--------------------
+Date: 25/8/2025
+Time: 23:30
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:30:46
+--------------------
+Date: 25/8/2025
+Time: 23:31
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:30:58
+--------------------
+Date: 25/8/2025
+Time: 23:31
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:31:14
+--------------------
+Date: 25/8/2025
+Time: 23:31
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:31:29
+--------------------
+Date: 25/8/2025
+Time: 23:31
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:31:45
+--------------------
+Date: 25/8/2025
+Time: 23:32
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:32:01
+--------------------
+Date: 25/8/2025
+Time: 23:32
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:32:17
+--------------------
+Date: 25/8/2025
+Time: 23:33
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:33:10
+--------------------
+Date: 25/8/2025
+Time: 23:33
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:33:25
+--------------------
+Date: 25/8/2025
+Time: 23:33
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:33:41
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:33:54
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:33:57
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:10
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:13
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:26
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:28
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:41
+--------------------
+Date: 25/8/2025
+Time: 23:34
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:44
+--------------------
+Date: 25/8/2025
+Time: 23:35
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:57
+--------------------
+Date: 25/8/2025
+Time: 23:35
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:34:57
+--------------------
+Date: 25/8/2025
+Time: 23:35
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:35:13
+--------------------
+Date: 25/8/2025
+Time: 23:42
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:42:05
+--------------------
+Date: 25/8/2025
+Time: 23:42
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:42:22
+--------------------
+Date: 25/8/2025
+Time: 23:42
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:42:41
+--------------------
+Date: 25/8/2025
+Time: 23:43
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:42:54
+--------------------
+Date: 25/8/2025
+Time: 23:48
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:48:33
+--------------------
+Date: 25/8/2025
+Time: 23:53
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:52:52
+--------------------
+Date: 25/8/2025
+Time: 23:58
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:58:36
+--------------------
+Date: 25/8/2025
+Time: 23:59
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-25 23:59:32
+--------------------
+Date: 26/8/2025
+Time: 0:0
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 00:00:22
+--------------------
+Date: 26/8/2025
+Time: 0:1
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 00:01:04
+--------------------
+Date: 26/8/2025
+Time: 0:2
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 00:02:23
+--------------------
+Date: 26/8/2025
+Time: 0:3
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 00:02:51
+--------------------
+Date: 26/8/2025
+Time: 0:3
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 00:03:12
+--------------------
+Date: 26/8/2025
+Time: 0:4
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 00:03:49
+--------------------
+Date: 26/8/2025
+Time: 0:10
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 00:10:01
+--------------------
+Date: 26/8/2025
+Time: 7:5
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 07:04:47
+--------------------
+Date: 26/8/2025
+Time: 11:49
+Phone Number: +919676869091
+Message: Accident detected at 2025-08-26 11:48:26
+--------------------
+Date: 30/8/2025
+Time: 0:58
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 00:58:00
+--------------------
+Date: 30/8/2025
+Time: 1:1
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 01:01:44
+--------------------
+Date: 30/8/2025
+Time: 1:3
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 01:03:14
+--------------------
+Date: 30/8/2025
+Time: 1:4
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 01:04:43
+--------------------
+Date: 30/8/2025
+Time: 10:10
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:10:04
+--------------------
+Date: 30/8/2025
+Time: 10:13
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:13:33
+--------------------
+Date: 30/8/2025
+Time: 10:14
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:13:56
+--------------------
+Date: 30/8/2025
+Time: 10:30
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:30:41
+--------------------
+Date: 30/8/2025
+Time: 10:33
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:32:49
+--------------------
+Date: 30/8/2025
+Time: 10:33
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:33:14
+--------------------
+Date: 30/8/2025
+Time: 10:34
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:34:42
+--------------------
+Date: 30/8/2025
+Time: 10:38
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:38:37
+--------------------
+Date: 30/8/2025
+Time: 10:43
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:42:34
+--------------------
+Date: 30/8/2025
+Time: 10:43
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:43:24
+--------------------
+Date: 30/8/2025
+Time: 10:43
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-08-30 10:43:44
+--------------------
+Date: 1/9/2025
+Time: 21:26
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:26:44
+--------------------
+Date: 1/9/2025
+Time: 21:28
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:27:55
+--------------------
+Date: 1/9/2025
+Time: 21:28
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:28:09
+--------------------
+Date: 1/9/2025
+Time: 21:28
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:28:12
+--------------------
+Date: 1/9/2025
+Time: 21:30
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:30:08
+--------------------
+Date: 1/9/2025
+Time: 21:32
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:32:21
+--------------------
+Date: 1/9/2025
+Time: 21:38
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:38:13
+--------------------
+Date: 1/9/2025
+Time: 21:39
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:39:35
+--------------------
+Date: 1/9/2025
+Time: 21:41
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:41:01
+--------------------
+Date: 1/9/2025
+Time: 21:43
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:42:57
+--------------------
+Date: 1/9/2025
+Time: 21:50
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:50:26
+--------------------
+Date: 1/9/2025
+Time: 21:54
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-01 21:54:33
+--------------------
+Date: 2/9/2025
+Time: 9:46
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 09:45:50
+--------------------
+Date: 2/9/2025
+Time: 9:46
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 09:46:13
+--------------------
+Date: 2/9/2025
+Time: 9:49
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 09:49:44
+--------------------
+Date: 2/9/2025
+Time: 9:52
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 09:52:35
+--------------------
+Date: 2/9/2025
+Time: 9:55
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 09:54:54
+--------------------
+Date: 2/9/2025
+Time: 9:56
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 09:56:46
+--------------------
+Date: 2/9/2025
+Time: 9:57
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 09:57:08
+--------------------
+Date: 2/9/2025
+Time: 10:2
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 10:02:31
+--------------------
+Date: 2/9/2025
+Time: 10:5
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 10:05:27
+--------------------
+Date: 2/9/2025
+Time: 10:6
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-02 10:05:50
+--------------------
+Date: 8/9/2025
+Time: 11:35
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:35:40
+--------------------
+Date: 8/9/2025
+Time: 11:36
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:35:56
+--------------------
+Date: 8/9/2025
+Time: 11:36
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:36:13
+--------------------
+Date: 8/9/2025
+Time: 11:36
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:36:30
+--------------------
+Date: 8/9/2025
+Time: 11:36
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:36:46
+--------------------
+Date: 8/9/2025
+Time: 11:37
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:37:03
+--------------------
+Date: 8/9/2025
+Time: 11:37
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:37:21
+--------------------
+Date: 8/9/2025
+Time: 11:37
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:37:38
+--------------------
+Date: 8/9/2025
+Time: 11:45
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 11:45:23
+--------------------
+Date: 8/9/2025
+Time: 16:35
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 16:35:00
+--------------------
+Date: 8/9/2025
+Time: 16:36
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-08 16:35:51
+--------------------
+Date: 16/9/2025
+Time: 18:49
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-16 18:49:46
+--------------------
+Date: 17/9/2025
+Time: 12:33
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-17 12:33:40
+--------------------
+Date: 17/9/2025
+Time: 12:34
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-17 12:33:59
+--------------------
+Date: 17/9/2025
+Time: 12:34
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-17 12:34:19
+--------------------
+Date: 17/9/2025
+Time: 12:34
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-17 12:34:37
+--------------------
+Date: 17/9/2025
+Time: 12:35
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-17 12:34:55
+--------------------
+Date: 17/9/2025
+Time: 12:35
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-17 12:35:13
+--------------------
+Date: 17/9/2025
+Time: 12:35
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-09-17 12:35:28
+--------------------
+Date: 17/9/2025
+Time: 12:41
+Phone Number: +919676906402
+Message: Hybrid AI detected accident at 2025-09-17 12:41:23
+--------------------
+Date: 17/9/2025
+Time: 12:46
+Phone Number: +919676906402
+Message: Hybrid AI detected accident at 2025-09-17 12:46:21
+--------------------
+Date: 17/9/2025
+Time: 12:47
+Phone Number: +919676906402
+Message: Hybrid AI detected accident at 2025-09-17 12:46:45
+--------------------
+Date: 17/9/2025
+Time: 12:47
+Phone Number: +919676906402
+Message: Hybrid AI detected accident at 2025-09-17 12:47:05
+--------------------
+Date: 17/9/2025
+Time: 12:47
+Phone Number: +919676906402
+Message: Hybrid AI detected accident at 2025-09-17 12:47:30
+--------------------
+Date: 17/9/2025
+Time: 12:48
+Phone Number: +919676906402
+Message: Hybrid AI detected accident at 2025-09-17 12:47:47
+--------------------
+Date: 17/9/2025
+Time: 12:48
+Phone Number: +919676906402
+Message: Hybrid AI detected accident at 2025-09-17 12:48:04
+--------------------
+Date: 17/9/2025
+Time: 12:51
+Phone Number: +919585557244
+Message: Hybrid AI detected accident at 2025-09-17 12:51:02
+--------------------
+Date: 17/9/2025
+Time: 12:51
+Phone Number: +919585557244
+Message: Hybrid AI detected accident at 2025-09-17 12:51:20
+--------------------
+Date: 30/10/2025
+Time: 2:59
+Phone Number: +919585557244
+Message: Hybrid AI detected accident at 2025-10-30 02:59:40
+--------------------
+Date: 30/10/2025
+Time: 3:0
+Phone Number: +919585557244
+Message: Hybrid AI detected accident at 2025-10-30 02:59:53
+--------------------
+Date: 5/11/2025
+Time: 5:6
+Phone Number: +919585557244
+Message: Hybrid AI detected accident at 2025-11-05 05:06:01
+--------------------
+Date: 5/11/2025
+Time: 12:20
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-11-05 12:20:12
+--------------------
+Date: 5/11/2025
+Time: 12:20
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-11-05 12:20:29
+--------------------
+Date: 5/11/2025
+Time: 12:20
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-11-05 12:20:46
+--------------------
+Date: 5/11/2025
+Time: 12:21
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-11-05 12:21:02
+--------------------
+Date: 5/11/2025
+Time: 12:21
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-11-05 12:21:19
+--------------------
+Date: 5/11/2025
+Time: 12:21
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-11-05 12:21:36
+--------------------
+Date: 5/11/2025
+Time: 12:22
+Phone Number: +919676869091
+Message: Hybrid AI detected accident at 2025-11-05 12:21:53
+--------------------
